@@ -1,6 +1,6 @@
 {
   "name": "assets-json-webpack-plugin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "output assets json",
   "main": "index.js",
   "repository": {
