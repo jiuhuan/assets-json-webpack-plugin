@@ -2,6 +2,7 @@ var fs = require('fs-extra');
 var path = require('path');
 
 module.exports = function(config){
+  var config = config || {};
   var output = config.output;
   return function() {
     this.plugin('done', function (stats) {
