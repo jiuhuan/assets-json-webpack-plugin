@@ -1,0 +1,20 @@
+{
+  "name": "assets-json-webpack-plugin",
+  "version": "0.0.1",
+  "description": "output assets json",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiuhuan/assets-json-webpack-plugin.git"
+  },
+  "keywords": ["webpack", "assets-json-webpack-plugin"],
+  "author": "jiuhuan<by11880@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiuhuan/assets-json-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/jiuhuan/assets-json-webpack-plugin#readme",
+  "dependencies": {
+    "fs-extra": "^1.0.0"
+  }
+}
